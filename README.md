@@ -1,2 +1,3 @@
-# Voice-Recognition-AI
-An Assistant which can only be used for playing a few songs.
+# Speech-Recognized-Music_Player
+An Assistant which can be used for playing a few songs by using voice commands.
+It uses Google's Text To Speech engine for its speech recognition.
