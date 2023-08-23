@@ -1,3 +1,2 @@
 # Speech-Recognized-Music-Player
-An Assistant which can be used for playing a few songs stored in its library by using voice commands.
-It uses Google's Text To Speech engine for its speech recognition.
+A personal project I developed, using Python that allows users to play music offline using voice commands. The project uses pyAudio to capture audio input from the microphone, speech_recognition to convert the audio to text, and gtts (Google Text To Speech) to provide feedback to the user.
